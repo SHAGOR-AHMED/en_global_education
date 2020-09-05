@@ -1,0 +1,45 @@
+@media screen and (max-width:640px){
+
+	.hline{
+		font-size: 12px;
+		text-align: justify;
+		padding: 10px;
+		font-weight: normal;
+	}
+
+	.about-top h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+	}
+	
+	.about-top p {
+		padding: 10px;
+		font-size: 16px;
+	}
+	
+	.about-icon{
+		max-width:292px;
+		margin:30 auto;
+	}
+	
+	.service-icon{
+		max-width:292px;
+		margin:30 auto;
+	}
+	
+	.element-item {
+		width:50%;
+	}
+	
+	.icons{
+		max-width:292px;
+		margin:30 auto;
+	}
+}
+
+@media screen and (max-width:480px){
+	.element-item {
+		width:100%;
+	}
+}
